@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+#groupname {
+    padding: 2%;
+}
+#bannerInit {
+  padding: 5%;
+  background-image: url("/images/background.jpg");
+  background-size: cover;
+}
+#elementsofgroup {
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+nav li {
+    margin-right: 10%; /* Add spacing between navigation items */
+}
+nav{ margin-left: 10% ;}
+header{
+    display: flex;
+}
